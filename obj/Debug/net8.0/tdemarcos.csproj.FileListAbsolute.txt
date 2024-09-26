@@ -1,0 +1,14 @@
+C:\Users\jeffi\Documents\tdemarcos\bin\Debug\net8.0\tdemarcos.exe
+C:\Users\jeffi\Documents\tdemarcos\bin\Debug\net8.0\tdemarcos.deps.json
+C:\Users\jeffi\Documents\tdemarcos\bin\Debug\net8.0\tdemarcos.runtimeconfig.json
+C:\Users\jeffi\Documents\tdemarcos\bin\Debug\net8.0\tdemarcos.dll
+C:\Users\jeffi\Documents\tdemarcos\bin\Debug\net8.0\tdemarcos.pdb
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.AssemblyInfoInputs.cache
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.AssemblyInfo.cs
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.csproj.CoreCompileInputs.cache
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.dll
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\refint\tdemarcos.dll
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.pdb
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\tdemarcos.genruntimeconfig.cache
+C:\Users\jeffi\Documents\tdemarcos\obj\Debug\net8.0\ref\tdemarcos.dll
